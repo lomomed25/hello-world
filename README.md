@@ -1,2 +1,5 @@
 # hello-world
-Testing phase
+
+Hello Humans!
+
+Lomomed here, I hope this journey can continue with no hassles
